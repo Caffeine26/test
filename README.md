@@ -6,3 +6,11 @@
 - Code ownership by identifying who make any part of the code.
 - Task managment for deviding tasks for each team member
 
+##  Example code
+Java code example:
+'''Java 
+    public class App{
+        public static void main(String[] args){
+            System.out.println("Welcome to IPE TP01.");
+        }
+    }
